@@ -5,14 +5,14 @@
 //slide 16
 //Grade tracker
 
-  #include <iostream>
-  using namespace std;
+	  #include <iostream>
+ 	 using namespace std;
 
-  int main() {
+  	int main() {
 
 	int inum;
 
-  cout << "Grade tracker!\n\n";
+  	cout << "Grade tracker!\n\n";
 	cout << "Type your grade percentage: ";
 	cin >> inum;
 
@@ -34,18 +34,18 @@
 
 
 	return 0;
-  }
+ 	 }
 
 
 // slide 17
 // starting a band
 
-  #include <iostream>
-  #include <string>
-  using namespace std;
+ 	 #include <iostream>
+  	#include <string>
+ 	 using namespace std;
 
 
-  int main() {
+ 	 int main() {
 
   	bool musicalFriend = true;
   	string friendPlays = "guitar";
@@ -95,16 +95,16 @@
   	}
 	
   	return 0;
-  }
+	  }
 
 // slide 19
 // killing time
 
-  #include <iostream>
-  using namespace std;
+ 	 #include <iostream>
+ 	 using namespace std;
 
 
-  int main() {
+	  int main() {
 
 	int ibored;
 
@@ -134,11 +134,11 @@
 // slide 20
 // earthquake
 
-  #include <iostream>
-  using namespace std;
+ 	 #include <iostream>
+  	using namespace std;
 
 
-  int main() {
+ 	 int main() {
 
 	float magnitude;
 	cout << "Earthquake Magnitude!\n";
@@ -168,4 +168,4 @@
 
 
 	return 0;
-  }
+ 	 }
