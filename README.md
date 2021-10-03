@@ -56,7 +56,7 @@
   	cout << "Enter your friend's name: ";
   	cin >> sname;
 
-  	cout << endl << sname << " you play guitar? " << endl;
+  	cout << endl << sname << " Do you like music? " << endl;
   	cout << "Type 1 or 2 only" << endl << "1 = Yes" << endl << "2 = No" << endl;
   	cin >> inum;
 
